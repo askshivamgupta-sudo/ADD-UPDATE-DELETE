@@ -1,0 +1,13 @@
+ename = {
+    "ename": "rahul",
+    "age": 20,
+    "office name": "techcrop",
+    "salary": 85000
+}
+
+# Access values using keys
+
+print("Name:", ename["ename"])
+print("Age:", ename["age"])
+print("Office Name:", ename["office name"])
+print("Salary:", ename["salary"])
